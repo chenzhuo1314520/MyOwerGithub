@@ -3,3 +3,17 @@ C15606609179z
 
 git config --global user.name "chenzhuo1314520"
 git config --global user.email "3279175118@qq.com
+
+
+git init
+git branch -M main
+git add .
+git commit -m "init: 项目初始化"
+git remote add origin https://github.com/chenzhuo1314520/MyOwerGithub.git
+git push -u origin main
+
+
+
+git add .
+git commit -m "init: 项目初始化"
+git push -u origin main
